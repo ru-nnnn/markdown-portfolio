@@ -10,11 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
-
-<br>
-
 {_includes/04-:heart:.md}
-<br>
-
-{% include 05-emphasis.md %}
