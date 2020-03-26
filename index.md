@@ -15,6 +15,3 @@ layout: default
 <br>
 
 -:heart:
-
-[text](https://example.com)
->>>>>>> master
