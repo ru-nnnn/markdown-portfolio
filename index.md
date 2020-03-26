@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{% includes/03-link.md %}
+{% includes/03-link.md %}(https://example.com)
