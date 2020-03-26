@@ -14,7 +14,7 @@ layout: default
 
 <br>
 
-* item
+- item
 
 <br>
 
