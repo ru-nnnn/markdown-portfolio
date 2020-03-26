@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{(http://github.com)}
+{% includes/03-link.md %}
