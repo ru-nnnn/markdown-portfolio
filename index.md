@@ -9,7 +9,5 @@ layout: default
 {% include 02-image.md %}
 
 <br>
-
-{% includes/03-link.md %}
-
 (https://example.com)
+{% includes/03-link.md %}
