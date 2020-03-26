@@ -16,3 +16,6 @@ layout: default
 
 {% includes/04-lists.md %}
 
+<br>
+
+{% includes/05-emphasis.md %}
