@@ -9,4 +9,4 @@ layout: default
 {% include 02-image.md %}
 
 <br>
-([text](https://example.com)
+([text](http://github.com)
