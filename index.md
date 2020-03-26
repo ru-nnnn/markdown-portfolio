@@ -10,4 +10,5 @@ layout: default
 
 <br>
 
-{% includes/03-link.md %}(https://example.com)
+{% includes/03-link.md %}
+(https://example.com)
