@@ -9,15 +9,3 @@ layout: default
 {% include 02-image.md %}
 
 <br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% includes/04-lists.md %}
-
-<br>
-
-{% includes/05-emphasis.md %}
-
-<br>
