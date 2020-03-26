@@ -14,4 +14,4 @@ layout: default
 
 <br>
 
-- item
+- :item:
