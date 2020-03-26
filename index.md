@@ -14,7 +14,7 @@ layout: default
 
 <br>
 
-{_includes/04-lists.md}- Item1
+- Item1
 
 <br>
 
