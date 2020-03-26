@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{[text](http://github.com)}
+{[](http://github.com)}
