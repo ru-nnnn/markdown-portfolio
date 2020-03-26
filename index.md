@@ -16,7 +16,6 @@ layout: default
 
 {_includes/04-lists.md- Item1}
 
-
 <br>
 
 {% include 05-emphasis.md %}
