@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-image.md %[text](https://example.com)}
+{[GitHub](http://github.com)}
